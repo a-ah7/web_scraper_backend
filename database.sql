@@ -16,4 +16,6 @@ create table Scraping_Request ( request_id INT AUTO_INCREMENT PRIMARY KEY ,
         REFERENCES Scraping_Request(request_id)
 );
 
+
+
   
